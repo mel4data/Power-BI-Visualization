@@ -1,8 +1,5 @@
 # Power-BI-Visualization
 
-## One
-
-
 ## NYC Taxi Dashboard
 
 ![image](https://github.com/mel4data/Power-BI-Visualization/assets/170362474/757972c6-0dac-41ff-bd99-953b3e41d013)
